@@ -1,0 +1,22 @@
+# Python virtual environments (The biggest one!)
+.venv/
+env/
+venv/
+ENV/
+
+# UV specific cache and internal files
+.uv/
+.python-version
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings (keeps your VS Code local config private)
+.vscode/
+.DS_Store
+
+# Environment Variables (Crucial for AI projects!)
+.env
+.env.local
