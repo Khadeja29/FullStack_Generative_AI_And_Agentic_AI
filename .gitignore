@@ -20,6 +20,3 @@ __pycache__/
 # Environment Variables (Crucial for AI projects!)
 .env
 .env.local
-
-# Token files
-token.txt
